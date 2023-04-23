@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharna</h1>
-[![backgroundmb.png](https://i.postimg.cc/90zBNk4x/backgroundmb.png)](https://postimg.cc/5QdvXnSv)
+[![backgroundmb.png](https://i.postimg.cc/SKbV1pfG/backgroundmb.png)](https://postimg.cc/pmkDy479)
 
 <h3 align="center">An inquisitive frontend developer from Maryland</h3>
 
