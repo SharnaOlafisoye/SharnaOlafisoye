@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharna</h1>
-[![backgroundmb.png](https://i.postimg.cc/SKbV1pfG/backgroundmb.png)]
+
 
 <h3 align="center">An inquisitive frontend developer from Maryland</h3>
 
