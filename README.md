@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **rest api, nodejs, glide,social capital**
 
-- 📫 How to reach me **ssolafisoye@gmail.com**
+- 📫 How to reach me **ssolafisoye@gmail.com  📱 🤳🏾443-741-1587**
 
 - ⚡ Fun fact **I working on gardening & roller skating. I make an amazing baked vegan mac & cheese, but I'm not vegan.**
 
@@ -27,8 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharnaolafisoye&" alt="sharnaolafisoye" /></p>
 
-  📱 🤳🏾443-741-1587
-  -📧 ssolafisoye@gmail.com
--
+ 
+  
 
 -->
