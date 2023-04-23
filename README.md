@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharna</h1>
+[![backgroundmb.png](https://i.postimg.cc/90zBNk4x/backgroundmb.png)](https://postimg.cc/5QdvXnSv)
+
 <h3 align="center">An inquisitive frontend developer from Maryland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharnaolafisoye&label=Profile%20views&color=0e75b6&style=flat" alt="sharnaolafisoye" /> </p>
