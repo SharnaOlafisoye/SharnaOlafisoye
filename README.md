@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharnaolafisoye" alt="sharnaolafisoye" /></a> </p>
 
-- 🔭 I’m currently working on **Landscaping Website**
+- 🔭 I’m currently working on **Landscaping Website, and an app to sign inventory in and out for my community's garden**
 
 - 🌱 I’m currently learning **rest api, nodejs, glide,social capital**
 
